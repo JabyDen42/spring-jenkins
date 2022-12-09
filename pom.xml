@@ -31,11 +31,7 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.junit</groupId>
-			<artifactId>junit-bom</artifactId>
-			<version>5.9.0</version>
-		</dependency>
+
 	</dependencies>
 
 	<build>

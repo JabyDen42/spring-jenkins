@@ -11,7 +11,7 @@ class JenkinsApplicationTests {
 	public  static Logger logger = LoggerFactory.getLogger(JenkinsApplication.class);
 
 	@Test
-	public void contextLoads() { 
+	public void contextLoads() {
 		logger.info("Test case executing ... ");
 	}
 
